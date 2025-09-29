@@ -3,8 +3,7 @@ Olá! 👋 Meu nome é **André**, sou um **Técnico de TI** de Portugal que ado
 
 ## 🌐 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a.nicolau_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/seu_perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/andr%C3%A9-nicolau-56a2a21b0/)) 
 
 ## 💻 Stack Tecnológica
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
