@@ -19,4 +19,13 @@ Olá! 👋 Meu nome é **André**, sou um **Técnico de TI** de Portugal que ado
 ## 📊 Estatísticas do GitHub
 ![](https://github-readme-stats.vercel.app/api?username=AndreNicolau&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AndreNicolau&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNicolau&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Citação Aleatória de Desenvolvedor
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AndreNicolau&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Orgulhosamente criado com GPRM ( https://gprm.itsvg.in ) -->
